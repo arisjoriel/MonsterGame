@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# wed-10/15/14
+#
+
+projectname: wed-10/15/14
+vendorid: com.mycompany
+mainmodule: com.mycompany.wed101514
